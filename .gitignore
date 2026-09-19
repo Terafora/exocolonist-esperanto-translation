@@ -1,0 +1,11 @@
+# Local copies of original game data
+/local/
+/upstream/
+
+# Generated Exoscript binaries
+*.exoc
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
