@@ -1,8 +1,8 @@
 ID	EN	Example or notes
 button_friendshipWithChara	Friendship with {1}	Friendship with Tammy 30 or greater
 button_battle	Battle!	
-button_ok	OK	
-button_cancel	Cancel	
+button_ok	Bone	
+button_cancel	Nuligi	
 button_tooStressedOut	Too stressed out	
 button_icon_flirt	Flirts with {1}	
 button_icon_groundhog	From a Past Life	
@@ -21,85 +21,85 @@ button_customPronouns_order1	they|she|him	Order custom gender strings with they|
 button_customPronouns_order2	|her	Then their|her|his and them|her|him and theirs|hers|his (all contain "|her")
 button_customPronouns_customize	Customize	
 button_customPronouns_tooltip	Modify custom pronouns ({1})	Modify custom pronouns (they/them)
-button_system	System	
-button_friends	Friends	
-button_memories	Memories	
+button_system	Sistemo	
+button_friends	Amikoj	
+button_memories	Memoroj	
 button_skills	Character Traits	
-button_music_muted	(Muted)	
-button_music_noSong	(No song playing)	
-button_main_continue	continue	
-button_main_newLife	start your new life	
-button_main_newGame	new game	
-button_main_load	load	
+button_music_muted	(Silentigita)	
+button_music_noSong	(Neniu kanto ludiĝas)	
+button_main_continue	daŭrigi	
+button_main_newLife	komenci vian novan vivon	
+button_main_newGame	nova ludo	
+button_main_load	ŝargi	
 button_ending_goWith	Go with them.	
 button_ending_rollCredits	Roll the credits.	
-button_on	[on]	
-button_off	[off]	
-button_done	done	
-button_save	save	
-button_load	load	
-button_settings	settings	
-button_credits	credits	
-button_gallery	gallery	
-button_main_menu	main menu	
-button_tutorial	tutorial	
-button_report_a_bug	report a bug	
-button_content_warnings	content warnings	
+button_on	[ŝaltita]	
+button_off	[malŝaltita]	
+button_done	finite	
+button_save	konservi	
+button_load	ŝargi	
+button_settings	agordoj	
+button_credits	kreditaĵoj	
+button_gallery	galerio	
+button_main_menu	ĉefa menuo	
+button_tutorial	lernilo	
+button_report_a_bug	raporti cimon	
+button_content_warnings	avertoj pri enhavo	
 button_debug_settings	debug settings	
 button_debug_commands	debug commands	
-button_next_song	next song	
-button_gear	gear	
-button_collectibles	collectibles	
-button_open_savegame_folder	open savegame folder	
+button_next_song	sekva kanto	
+button_gear	ekipaĵo	
+button_collectibles	kolektaĵoj	
+button_open_savegame_folder	malfermi dosierujon de konservitaj ludoj	
 button_clear_past_memories	clear past memories	
 button_clear_all_user_data	clear all user data	
-button_delete_save	delete save	
-button_general	general	
-button_graphics	graphics	
-button_audio	audio	
-button_controls	controls	
+button_delete_save	forigi konservitan ludon	
+button_general	ĝenerala	
+button_graphics	grafiko	
+button_audio	sono	
+button_controls	regiloj	
 button_debug	debug	
 button_reset	reset	
-button_illustrations	illustrations	
-button_endings	endings	
-button_backgrounds	backgrounds	
-button_cards	cards	
+button_illustrations	ilustraĵoj	
+button_endings	finoj	
+button_backgrounds	fonoj	
+button_cards	kartoj	
 button_cheevos	cheevos	
-button_next	next	
-button_previous	previous	
+button_next	sekva	
+button_previous	antaŭa	
 button_give_up	give up	
-button_okay	okay	
-button_start_your_new_life	start your new life	
-button_endings_gallery	endings gallery	
-button_quit	quit	
+button_okay	bone	
+button_start_your_new_life	komenci vian novan vivon	
+button_endings_gallery	galerio de finoj	
+button_quit	eliri	
 		
 		
 		
-text_system	system	
+text_system	sistemo	
 text_debug_enabled	debug enabled	
-text_now_playing	now playing	
+text_now_playing	nun ludiĝas	
 text_no_skill_changes	no skill changes	
-text_friends	friends	
-text_goal	goal	
-text_loading...	Loading...	
+text_friends	amikoj	
+text_goal	celo	
+text_loading...	Ŝargante...	
 text_she	she	
 text_he	he	
 		
 		
 		
-picker_title	Select a Collectible	
+picker_title	Elektu kolektaĵon	
 perk_newPerk	New Perk!	
 perk_title	{1} - Level {2}	Combat - Level 3
-deck_title_memories	Memories	
-deck_subtitle_memories	{1} cards for use in challenges	20 cards for use in challenges
-deck_title_gear	Gear	
-deck_subtitle_gear	{1} of {2} equipped	2 of 3 equipped
-deck_button_pets	Only Show Equipped Pets	
-deck_title_collectibles	Collectibles	
-deck_subtitle_collectibles_none	Look for items on the ground while exploring	
-deck_subtitle_collectibles	{1} gifts or one-use items (duplicates stacked)	
-deck_popup_gearBattle	Can't change gear during a battle	
-deck_popup_gearEvent	Can't change gear during an event	
+deck_title_memories	Memoroj	
+deck_subtitle_memories	{1} kartoj por defioj	20 cards for use in challenges
+deck_title_gear	Ekipaĵo	
+deck_subtitle_gear	{1} el {2} ekipitaj	2 of 3 equipped
+deck_button_pets	Montri nur ekipitajn dorlotbestojn	
+deck_title_collectibles	Kolektaĵoj	
+deck_subtitle_collectibles_none	Serĉu objektojn sur la tero dum esplorado	
+deck_subtitle_collectibles	{1} donacoj aŭ unuuzaj objektoj (samaj objektoj grupigitaj)	
+deck_popup_gearBattle	Ne eblas ŝanĝi ekipaĵon dum batalo	
+deck_popup_gearEvent	Ne eblas ŝanĝi ekipaĵon dum evento	
 		
 		
 		
@@ -126,14 +126,14 @@ questionMark	?	For unknown values eg Congruence's age
 		
 		
 		
-popup_selectCard	Select a card first.	
-popup_warning	Warning!	
-popup_home_battle	Can't return home during a battle	
-popup_home_story	Can't return home during an event	
-popup_home_confirm	Are you sure you're ready to go home?	
+popup_selectCard	Unue elektu karton.	
+popup_warning	Averto!	
+popup_home_battle	Ne eblas reveni hejmen dum batalo	
+popup_home_story	Ne eblas reveni hejmen dum evento	
+popup_home_confirm	Ĉu vi certas, ke vi pretas reveni hejmen?	
 popup_stuckPlayer	Detected stuck player, teleporting to entrance. Sorry!	
-popup_pickName	What name?	
-popup_shortName	Name too short!	
+popup_pickName	Kiu nomo?	
+popup_shortName	La nomo estas tro mallonga!	
 		
 		
 		
@@ -145,9 +145,9 @@ popup_shortName	Name too short!
 		
 		
 skillperk_none	None	
-skillperk_gearslots2	Extra slot for gear	
-skillperk_gearslots3	Extra slot for gear	
-skillperk_gearslots4	Extra slot for gear	
+skillperk_gearslots2	Plia loko por ekipaĵo	
+skillperk_gearslots3	Plia loko por ekipaĵo	
+skillperk_gearslots4	Plia loko por ekipaĵo	
 		
 		
 		
