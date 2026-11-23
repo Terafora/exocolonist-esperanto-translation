@@ -9,3 +9,8 @@
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Local font-patcher environment and game backups
+.venv-font-patch/
+__pycache__/
+.esperanto-font-backup/
