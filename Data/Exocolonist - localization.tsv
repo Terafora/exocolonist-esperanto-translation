@@ -151,35 +151,35 @@ skillperk_gearslots4	Plia loko por ekipaĵo
 		
 		
 		
-skill_empathy	Empathy	
-skill_persuasion	Persuasion	
-skill_creativity	Creativity	
-skill_bravery	Bravery	
-skill_reasoning	Reasoning	
-skill_organization	Organizing	
-skill_engineering	Engineering	
-skill_biology	Biology	
-skill_toughness	Toughness	
-skill_perception	Perception	
-skill_combat	Combat	
-skill_animals	Animals	
+skill_empathy	Empatio	
+skill_persuasion	Persvado	
+skill_creativity	Kreemo	
+skill_bravery	Kuraĝo	
+skill_reasoning	Rezonado	
+skill_organization	Organizado	
+skill_engineering	Inĝenierarto	
+skill_biology	Biologio	
+skill_toughness	Eltenemo	
+skill_perception	Percepto	
+skill_combat	Batalado	
+skill_animals	Bestoj	
 skill_kudos	Kudos	
 skill_stress	Stress	
 skill_rebellion	Rebellion	
 skillNeg_rebellion	Loyalty	
 		
-skillDesc_empathy	Understanding other people	
-skillDesc_persuasion	Charisma to command people and speak in public	
-skillDesc_creativity	Artistic ability and capacity for novel ideas	
-skillDesc_bravery	For both social and dangerous situations	
-skillDesc_reasoning	Problem solving and general knowledge	
-skillDesc_organization	Dedication to neatness, management	
-skillDesc_engineering	Study of machines, physics, math, and programming	
-skillDesc_biology	Study of plants, biochemistry, and the human body	
-skillDesc_toughness	Physical strength and stamina	
-skillDesc_perception	Ability to find things, and to sneak past things	
-skillDesc_combat	Tactics and weapons	
-skillDesc_animals	Familiarity with xenofauna, hunting, ranching	
+skillDesc_empathy	Kompreno de aliaj homoj	
+skillDesc_persuasion	Karismo por gvidi homojn kaj paroli publike	
+skillDesc_creativity	Arta kapablo kaj kapablo elpensi novajn ideojn	
+skillDesc_bravery	Por kaj sociaj kaj danĝeraj situacioj	
+skillDesc_reasoning	Solvado de problemoj kaj ĝenerala scio	
+skillDesc_organization	Zorgo pri ordo kaj administrado	
+skillDesc_engineering	Studado de maŝinoj, fiziko, matematiko kaj programado	
+skillDesc_biology	Studado de plantoj, biokemio kaj la homa korpo	
+skillDesc_toughness	Fizika forto kaj eltenkapablo	
+skillDesc_perception	Kapablo trovi aferojn kaj preterpasi ilin nerimarkite	
+skillDesc_combat	Taktikoj kaj armiloj	
+skillDesc_animals	Konoj pri ksenofaŭno, ĉasado kaj bestbredado	
 skillDesc_kudos	Reputation-based currency	
 skillDesc_stress	Physical and mental exhaustion	
 skillDesc_rebellion	Relationship with adults and colony government	
@@ -246,55 +246,55 @@ memchange_petted_unisaur	Bond with Pet Unisaur
 		
 		
 story_continueButtonText	...	
-story_doneButtonText	Done	
-story_endingNextButtonText	But what about...	
-story_doneButtonBeforeJobBattleText	Get to Work!	
-story_doneButtonBeforeBattleText	Challenge!	
-story_doneButtonTimePassesText	Time Passes...	
-story_jobTitle	Pick an activity to do this month:	
+story_doneButtonText	Finite	
+story_endingNextButtonText	Sed kio pri...	
+story_doneButtonBeforeJobBattleText	Eklaboru!	
+story_doneButtonBeforeBattleText	Defio!	
+story_doneButtonTimePassesText	La tempo pasas...	
+story_jobTitle	Elektu agadon por ĉi tiu monato:	
 story_unknownName	they	Fallback when character unknown / bff etc memory not set
 		
 		
 		
 		
 		
-charas_welcome	Welcome	
-charas_date	Month {1} of {2}, age {3}	Month 3 of Quiet, age 11
-charas_date_noage	Month {1} of {2}	Month 3 of Quiet
-charas_date_age	Age {1}	Age 11
-charas_about	About	
+charas_welcome	Bonvenon	
+charas_date	Monato {1} de {2}, aĝo {3}	Month 3 of Quiet, age 11
+charas_date_noage	Monato {1} de {2}	Month 3 of Quiet
+charas_date_age	Aĝo {1}	Age 11
+charas_about	Pri	
 charas_she	She	
 charas_he	He	
 charas_yearsOld	You're {1} years old, and	You're 10 years old, and an average kid.
 charas_noPerk	an average kid.	You're 10 years old, and an average kid.
-charas_age	Age:	
-charas_birthday	Birthday:	
+charas_age	Aĝo:	
+charas_birthday	Naskiĝtago:	
 charas_enhancement	Augment:	
-charas_dating	Relationship:	
-charas_likes	Likes:	
-charas_dislikes	Dislikes:	
-charas_datingChara	Dating {1}	Dating Tammy
-charas_datingYou	Dating you!	
-charas_friendship	Friendship {1} / {2}	Friendship 46 / 100
-charas_rename	Rename {1}	Rename Sol
-charas_popup_renamed	Name changed to {1}	
+charas_dating	Amrilato:	
+charas_likes	Ŝatas:	
+charas_dislikes	Malŝatas:	
+charas_datingChara	En amrilato kun {1}	Dating Tammy
+charas_datingYou	En amrilato kun vi!	
+charas_friendship	Amikeco {1} / {2}	Friendship 46 / 100
+charas_rename	Ŝanĝi la nomon de {1}	Rename Sol
+charas_popup_renamed	La nova nomo estas {1}	
 		
 		
 		
 		
 		
 		
-fact_name	name	
-fact_basics	basics	
-fact_more	more	
+fact_name	nomo	
+fact_basics	bazaj informoj	
+fact_more	pli	
 fact_enhancement	augment	
-fact_birthday	birthday	
-fact_likes	likes {1}	
-fact_dislikes	dislikes {1}	
-fact_dating	relationship	
-fact_likesNothing	Nothing	
-fact_likesEverything	Everything	
-fact_noBirthday	Doesn't have one	
+fact_birthday	naskiĝtago	
+fact_likes	ŝatas: {1}	
+fact_dislikes	malŝatas: {1}	
+fact_dating	amrilato	
+fact_likesNothing	Nenio	
+fact_likesEverything	Ĉio	
+fact_noBirthday	Ne havas naskiĝtagon	
 		
 		
 		
@@ -439,10 +439,10 @@ cardAbilitySource_thisCard	this card
 cardAbilitySource_gear	{1} gear	Captain's Hat gear
 cardAbilitySource_unknown	unknown card	
 		
-cardType_pet	Pet	
-cardType_gear	Gear	
-cardType_collectible	Collectible	
-cardType_memory	Memory	
+cardType_pet	Dorlotbesto	
+cardType_gear	Ekipaĵo	
+cardType_collectible	Kolektaĵo	
+cardType_memory	Memoro	
 		
 cardChange_gained	Gained {1}	Gained Collectible
 cardChange_lost	Lost {1}	Lost Collectible
@@ -454,58 +454,58 @@ statusChange_gained	Gained Status: {1}	Status Gained: Starving
 statusChange_ended	Status Ended: {1}	
 statusChange_nothing	nothing	
 		
-shop_shop_title	Supply Depot Shop	
-shop_shop_subtitle	Click a card to select it	
-shop_shop_button	Buy	
-shop_training_title	Training Gym	
-shop_training_subtitle	Select a basic card to upgrade	
-shop_training_button	Upgrade	
-shop_trainingBuy_title	Training Gym	
-shop_trainingBuy_subtitle	Select a basic card to buy	
-shop_trainingBuy_button	Buy	
-shop_spa_title	Meditation Spa	
-shop_spa_subtitle	Select a memory to forget	
-shop_spa_button	Forget	
-shop_sell_title	Depot Shop	
-shop_sell_subtitle	Select a card to sell	
-shop_sell_button	Sell	
-popup_shopBuy	Buy {1} for {2} kudos?	Buy Cool Dress for 100 Kudos?
-popup_shopUpgrade	Upgrade {1} to {2} for {3} kudos?	
-popup_shopForget	Are you sure you want to permanently forget {1}?	
-popup_shopSell	Sell {1} for {2} kudos?	
-popup_shopPurchaseComplete	Purchase complete!	
-popup_shopUpgradeComplete	Upgrade complete!	
-popup_shopForgetComplete	You breathe deeply. That memory has been forgotten...	
-popup_shop_SellComplete	Sale complete!	
-button_shop_buy	Purchase	
-button_shop_buyFor	Purchase for {1} kudos	
-button_shop_afford	You can't afford this	
+shop_shop_title	Vendejo de la provizejo	
+shop_shop_subtitle	Alklaku karton por elekti ĝin	
+shop_shop_button	Aĉeti	
+shop_training_title	Trejnejo	
+shop_training_subtitle	Elektu bazan karton por plibonigi ĝin	
+shop_training_button	Plibonigi	
+shop_trainingBuy_title	Trejnejo	
+shop_trainingBuy_subtitle	Elektu bazan karton por aĉeti ĝin	
+shop_trainingBuy_button	Aĉeti	
+shop_spa_title	Medita kuracloko	
+shop_spa_subtitle	Elektu memoron por forgesi ĝin	
+shop_spa_button	Forgesi	
+shop_sell_title	Vendejo de la provizejo	
+shop_sell_subtitle	Elektu karton por vendi ĝin	
+shop_sell_button	Vendi	
+popup_shopBuy	Ĉu aĉeti la karton «{1}» kontraŭ {2} Kudos?	Buy Cool Dress for 100 Kudos?
+popup_shopUpgrade	Ĉu plibonigi la karton «{1}» al «{2}» kontraŭ {3} Kudos?	
+popup_shopForget	Ĉu vi certas, ke vi volas por ĉiam forgesi la memoron «{1}»?	
+popup_shopSell	Ĉu vendi la karton «{1}» kontraŭ {2} Kudos?	
+popup_shopPurchaseComplete	Aĉeto finita!	
+popup_shopUpgradeComplete	Plibonigo finita!	
+popup_shopForgetComplete	Vi profunde spiras. Tiu memoro estas forgesita...	
+popup_shop_SellComplete	Vendo finita!	
+button_shop_buy	Aĉeti	
+button_shop_buyFor	Aĉeti kontraŭ {1} Kudos	
+button_shop_afford	Vi ne havas sufiĉe da Kudos por tio	
 		
 		
 		
 		
 		
-save_title_replace	Choose a game to replace	
-save_title_load	Load a previous game	
-save_button_new	New Save	
-save_button_overwrite	Overwrite	
-popup_save_confirm1	Are you sure?	
-popup_save_confirm2	Really REALLY sure?	
-popup_save_deleteGroundhogs1	Delete ALL memories? Remove all memories of past lives. Settings and savegames will NOT be removed. Achievements, seen cards, characters and endings will NOT be removed.	
-popup_save_deleteGroundhogs2	This will remove all 'wormhole' references to memories from past games.	
-popup_save_deleteGroundhogs3	Memories from past lives have been deleted.	
-popup_save_deleteData1	Delete ALL data? Remove all savegames, memories of past lives, and reset user settings? Includes in-game achievement data, seen cards, characters and endings.	
-popup_save_deleteData2	This will delete ALL user data including ALL savegames, settings, and logs, leaving a fresh install.	
-popup_save_deleteData3	All user data has been deleted.	
-popup_save_deleteDataTradeshow	All user data has been deleted and all settings reset, except Settings.tradeShowMode	
+save_title_replace	Elektu ludon por anstataŭigi	
+save_title_load		Ŝargi antaŭan ludon	
+save_button_new		Nova konservita ludo	
+save_button_overwrite	Anstataŭigi	
+popup_save_confirm1	Ĉu vi certas?	
+popup_save_confirm2	Ĉu vi verege VEREGE certas?	
+popup_save_deleteGroundhogs1	Ĉu forigi ĈIUJN memorojn? Tio forigos ĉiujn memorojn pri pasintaj vivoj. Agordoj kaj konservitaj ludoj NE estos forigitaj. Atingoj, viditaj kartoj, roluloj kaj finoj NE estos forigitaj.	
+popup_save_deleteGroundhogs2	Ĉi tio forigos ĉiujn referencojn al memoroj el antaŭaj ludoj, kiuj uzas la “vermtruon”.
+popup_save_deleteGroundhogs3	La memoroj pri pasintaj vivoj estas forigitaj.	
+popup_save_deleteData1	Ĉu forigi ĈIUJN datumojn? Ĉu forigi ĉiujn konservitajn ludojn kaj memorojn pri pasintaj vivoj, kaj restarigi la uzantajn agordojn? Tio inkluzivas datenojn pri atingoj en la ludo, viditajn kartojn, rolulojn kaj finojn.
+popup_save_deleteData2	Ĉi tio forigos ĈIUJN uzantdatenojn, inkluzive de ĈIUJ konservitaj ludoj, agordoj kaj protokoloj, kaj lasos la ludon en ĵus instalita stato.	
+popup_save_deleteData3	Ĉiuj uzantdatenoj estas forigitaj.	
+popup_save_deleteDataTradeshow	Ĉiuj uzantdatenoj estas forigitaj kaj ĉiuj agordoj restarigitaj, krom Settings.tradeShowMode	
 		
-popup_missingGroundhogs_header	ERROR: missing past-life memories	
-popup_missingGroundhogs_text	Your Groundhogs.json file may be corrupt.\n\nWould you like to restore past-life memories, achievements, endings, and cards from this savegame?	
-popup_missingGroundhogs_warn	This will permanently replace ALL past-life memories and gallery content.\n\nWill not affect achievements on other platforms, only the record of them in the game's gallery.	
-popup_missingGroundhogs_done	Restore Complete	
-popup_missingGroundhogs_done2	Past-life memories restored from this save file to Groundhogs.json. Previous file backed up to Groundhogs_old.json	
-popup_saveFailed	ERROR: a file failed to save. Your hard drive may be full, or the game may be corrupt.	
-popup_saveFailedFinal	FINAL WARNING: unable to save to the filesystem.	
+popup_missingGroundhogs_header	ERARO: mankas memoroj pri pasintaj vivoj	
+popup_missingGroundhogs_text	Via dosiero Groundhogs.json eble estas difektita.\n\nĈu vi volas restarigi memorojn pri pasintaj vivoj, atingojn, finojn kaj kartojn el ĉi tiu konservita ludo? 
+popup_missingGroundhogs_warn	Ĉi tio konstante anstataŭigos ĈIUJN memorojn pri pasintaj vivoj kaj galerian enhavon.\n\nĜi ne influos atingojn en aliaj platformoj, nur ilian registron en la galerio de la ludo.  
+popup_missingGroundhogs_done	Restarigo Finita	
+popup_missingGroundhogs_done2	Memoroj pri pasintaj vivoj estis restarigitaj el ĉi tiu konservita ludo en Groundhogs.json. La antaŭa dosiero estis sekurkopiita kiel Groundhogs_old.json 
+popup_saveFailed		ERARO: konservado de dosiero malsukcesis. Via malmola disko eble estas plena aŭ la ludo eble estas difektita.	
+popup_saveFailedFinal	FINA AVERTO: ne eblas konservi en la dosiersistemon.	
 		
 		
 		
@@ -760,41 +760,41 @@ intro_title_cards	Memories
 		
 		
 		
-hotkey_interact	Interact	
-hotkey_cancel	Cancel	
-hotkey_submitInput	Submit Text	
-hotkey_toolbar	Toolbar	
-hotkey_system	System	
-hotkey_friends	Friends	
-hotkey_cards	Cards	
-hotkey_skills	Skills	
-hotkey_home	Home	
-hotkey_moveUp	Move Up	
-hotkey_moveDown	Move Down	
-hotkey_moveLeft	Move Left	
-hotkey_moveRight	Move Right	
-hotkey_guiUp	UI Up	
-hotkey_guiDown	UI Down	
-hotkey_guiLeft	UI Left	
-hotkey_guiRight	UI Right	
-hotkey_tabLeft	UI Tab Left	
-hotkey_tabRight	UI Tab Right	
-hotkey_scrollUp	Scroll Up	
-hotkey_scrollDown	Scroll Down	
-hotkey_scrollLeft	Scroll Left	
-hotkey_scrollRight	ScrollRight	
-hotkey_choice1	Choice #1	
-hotkey_choice2	Choice #2	
-hotkey_choice3	Choice #3	
-hotkey_choice4	Choice #4	
-hotkey_choice5	Choice #5	
-hotkey_choice6	Choice #6	
-hotkey_choice7	Choice #7	
-hotkey_choice8	Choice #8	
-hotkey_choice9	Choice #9	
-settings_resetAllControls	Reset All Controls	
-settings_customPronouns	Custom Pronouns	
-settings_resetAll	Reset All	
+hotkey_interact	Interagi	
+hotkey_cancel	Nuligi	
+hotkey_submitInput	Sendi Tekston	
+hotkey_toolbar	Ilobreto	
+hotkey_system	Sistemo	
+hotkey_friends	Amikoj	
+hotkey_cards	Kartoj	
+hotkey_skills	Kapabloj	
+hotkey_home	Hejmo	
+hotkey_moveUp	Movi Supren
+hotkey_moveDown	Movi Malsupren	
+hotkey_moveLeft	Movi Maldekstren	
+hotkey_moveRight Movi Dekstren	
+hotkey_guiUp	UI Supre
+hotkey_guiDown	UI Malsupre	
+hotkey_guiLeft	UI Maldekstre
+hotkey_guiRight	UI Dekstre	
+hotkey_tabLeft	UI langeto Maldekstre	
+hotkey_tabRight	UI langeto Dekstre	
+hotkey_scrollUp	Rulumi Supren	
+hotkey_scrollDown	Rulumi Malsupren	
+hotkey_scrollLeft	Rulumi Maldekstren	
+hotkey_scrollRight	Rulumi Dekstren
+hotkey_choice1	Elekto #1	
+hotkey_choice2	Elekto #2	
+hotkey_choice3  Elekto #3	
+hotkey_choice4	Elekto #4	
+hotkey_choice5	Elekto #5	
+hotkey_choice6	Elekto #6	
+hotkey_choice7	Elekto #7	
+hotkey_choice8	Elekto #8	
+hotkey_choice9	Elekto #9	
+settings_resetAllControls	Premu iun ajn butonon por ligi ĝin	
+settings_customPronouns	Propraj Pronomoj
+settings_resetAll	Restarigi ĉion	
 settings_pronounsTitle	Use these buttons to replace the entries below, or customize them individually.	
 settings_pronounsSingular	Autofill with {1} (Singular: {2} is)	
 settings_pronounsPlural	Autofill with {1} (Plural: {2} are)	
@@ -859,10 +859,10 @@ setting_antiAliasing_sampling	{1}x Multi Sampling	2x Multi Sampling
 setting_vSyncCount_every	Every V Blank	
 setting_vSyncCount_second	Every Second V Blank	
 setting_vSyncCount_none	Don't Sync	
-settings_resetConfirm	Sure you want to reset all bindings to default?	
-settings_resetDone	Controls Reset.	
-settings_resetBindings	Sure you want to reset ALL settings and bindings?	
-settings_resetSettings	Settings Reset.	
+settings_resetConfirm	Ĉu vi certas, ke vi volas restarigi ĉiujn klavligojn al la defaŭltaj?	
+settings_resetDone	Klavligoj Restarigitaj.	
+settings_resetBindings	Ĉu vi certas, ke vi volas restarigi ĈIUJN agordojn kaj klavligojn?	
+settings_resetSettings	Agordoj Restarigitaj.
 settings_quality_very_low	very low	
 settings_quality_low	low	
 settings_quality_medium	medium	
@@ -874,7 +874,7 @@ settings_fullscreen_fullscreenwindow	full screen window
 settings_fullscreen_windowed	windowed	
 settings_fullscreen_maximizedwindow	maximized window	
 		
-settings_resetAllSettings	Reset All Settings	
+settings_resetAllSettings	Restarigi Ĉiujn Agordojn	
 settings_mods	Mods	
 settings_modsNone	No mods found - visit Steam Workshop to install mods and language packs	
 settings_modsRestartRequired	Restart the game for mod changes to take effect.	
