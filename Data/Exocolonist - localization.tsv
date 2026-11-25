@@ -357,19 +357,19 @@ job_doing_rebuild	Rebuilding the Colony
 job_doing_mourn	Mourning	
 		
 		
-difficulty_none	none	
-difficulty_easy	easy	
-difficulty_normal	normal	
-difficulty_hard	hard	
-difficulty_impossible	impossible	
+difficulty_none	neniu	
+difficulty_easy	facila	
+difficulty_normal	normala	
+difficulty_hard	malfacila	
+difficulty_impossible	neebla	
 		
-battleHeader_difficulty	{1} challenge	easy challenge
-battleHeader_skillDifficulty	{1} {2} challenge	easy empathy challenge
-battleHeader_3rounds	3 Rounds	
-battleHeader_bonusLeft	{1} for	plus 3 for (Red Pairs Icon)
-battleHeader_bonusRight_social	social straights	
-battleHeader_bonusRight_mental	mental flushes	
-battleHeader_bonusRight_physical	physical pairs	
+battleHeader_difficulty	{1} defio	easy challenge
+battleHeader_skillDifficulty	{1} {2} defio pri	easy empathy challenge
+battleHeader_3rounds	3 Raŭndoj	
+battleHeader_bonusLeft	{1} pro	plus 3 for (Red Pairs Icon)
+battleHeader_bonusRight_social	sociaj sinsekvoj	
+battleHeader_bonusRight_mental	mensaj samkoloraj kombinoj	
+battleHeader_bonusRight_physical	fizikaj paroj
 		
 battleBonus_fromSource	{1} from {2}	+4 from Pet Bot Gear
 battleBonus_fromSource_multiply	x{1} from {2}	x2 from Pet Bot Gear
@@ -379,44 +379,44 @@ battleBonus_and	and	Bonus1 and Bonus2
 battleBonus_from	{1} from {2}	+3 from Condition and Vriki III
 		
 		
-battlePane_roundLocked	(round {1})	round 3
-battle_tooltip_sort_suit	Sort Cards by Suit	
-battle_tooltip_sort_value	Sort Cards by Value	
+battlePane_roundLocked	(raŭndo {1})	round 3
+battle_tooltip_sort_suit	Ordigi Kartojn Laŭ Koloro	
+battle_tooltip_sort_value	Ordigi Kartojn Laŭ Valoro
 battle_tooltip_autoplayFairy	Autoplay Fairy perk: once per battle, find a slightly better hand	
-battle_tooltip_tutorial	Show/Hide Tutorial	
-battle_goal_superGoal	Bonus for hidden higher goal:\n+1 to {1}	Bonus for hidden higher goal +1 to Animals
-battle_goal_hand	{1} total hand value:\n{2} from card values	15 total hand value: 5 from card values
-battle_goal_pairs	{1} from pair/straight/flush	+3 from pair/straight/flush
-battle_goal_global	{1} from global bonuses	
-battle_goal_button_nextRound	next round	
-battle_goal_button_win	win!	
-battle_goal_button_lose	give up	
-battle_goal_finalRound	Final Round!	
-battle_goal_round	Round {1} of {2}	Round 1 of 3
-battle_goal_title	goal	
-battle_goal_title_super	super goal!	
-battle_button_pushThrough	Push through\n({1} stress)	Push through (5 stress)
-battle_button_pushThroughNo	Push through\n	
-battle_reward_won	Won Challenge	
-battle_reward_failed	Failed Challenge	
-battle_reward_superGoal	Super Goal	
-battle_reward_bestScore	Best Score	
-battle_reward_exactScore	Exact score from {1}	
-battle_close_keep	Close and Keep cards	
-battle_close_forget	forget	
-battle_winLose_won	Victorious!	
-battle_winLose_lost	Defeated!	
-battle_bestScore_yes	Best Score {1} out of {2}	
-battle_bestScore_no	Total {1} out of Best Score {2}	
-battle_bestScore_lastRound	(last round only)	
-battle_title_challenge	Challenge	
-battle_fail_defeated	Defeated	
-battle_fail_wouldHave	You would have gotten {1}	
-battle_useCard	Use a {1}?	Use a crystal?
-battle_forgetTitle	Do you want to forget?	
-battle_forgetTooltip	Select a card to remove, or click the close button to keep them all	
-battle_forgetConfirm	Forget {1}?	
-battle_forgetConfirmNone	Keep your memories?	
+battle_tooltip_tutorial Montri Aŭ Kaŝi La Lernilon	
+battle_goal_superGoal	Gratifiko pro la kaŝita pli alta celo:\n+1 al {1}	Bonus for hidden higher goal +1 to Animals
+battle_goal_hand	{1} entute por la mano:\n{2} el la kartvaloroj 15 total hand value: 5 from card values
+battle_goal_pairs	{1} pro paro, sinsekvo aŭ samkolora kombino	+3 from pair/straight/flush
+battle_goal_global	{1} el ĝeneralaj gratifikoj
+battle_goal_button_nextRound	sekva raŭndo	
+battle_goal_button_win	venki!	
+battle_goal_button_lose	rezigni	
+battle_goal_finalRound	Fina raŭndo!	
+battle_goal_round	Raŭndo {1} el {2}	Round 1 of 3
+battle_goal_title	celo	
+battle_goal_title_super	kromcelo!!	
+battle_button_pushThrough	Daŭrigi malgraŭ ĉio\n({1} streĉo)	Push through (5 stress)
+battle_button_pushThroughNo	Daŭrigi malgraŭ ĉio\n	
+battle_reward_won	Defio Venkita	
+battle_reward_failed	Defio Malsukcesis	
+battle_reward_superGoal	Kromcelo	
+battle_reward_bestScore	Plej Bona Poentaro	
+battle_reward_exactScore	Ĝuste {1} Poentoj	
+battle_close_keep	Fermi Kaj Konservi La Kartojn	
+battle_close_forget	forgesi	
+battle_winLose_won	Venko!	
+battle_winLose_lost	Malvenko!	
+battle_bestScore_yes	Plej bona poentaro: {1} el {2}	
+battle_bestScore_no	Entute {1} el plej bona poentaro de {2}	
+battle_bestScore_lastRound	(nur la lasta raŭndo)	
+battle_title_challenge	Defio	
+battle_fail_defeated	Malvenko
+battle_fail_wouldHave	Vi estus ricevinta {1}	
+battle_useCard	Ĉu uzi {1}?	Use a crystal?
+battle_forgetTitle	Ĉu vi volas forgesi?	
+battle_forgetTooltip	Elektu karton por forigi ĝin aŭ alklaku la fermbutonon por konservi ĉiujn kartojn.
+battle_forgetConfirm	Ĉu forgesi {1}?
+battle_forgetConfirmNone	Ĉu konservi viajn memorojn?
 		
 		
 		
@@ -444,15 +444,15 @@ cardType_gear	Ekipaĵo
 cardType_collectible	Kolektaĵo	
 cardType_memory	Memoro	
 		
-cardChange_gained	Gained {1}	Gained Collectible
-cardChange_lost	Lost {1}	Lost Collectible
-cardChange_forgot	Forgot {1}	Forgot Memory
-cardChange_upgraded	Upgraded {1}	Upgraded Pet
-cardChange_skip	Select the card to skip gaining it.	
+cardChange_gained	Ricevita: {1}	Gained Collectible
+cardChange_lost	Perdita {1}	Lost Collectible
+cardChange_forgot	Forgesita: {1}	Forgot Memory
+cardChange_upgraded	Plibonigita: {1}	Upgraded Pet
+cardChange_skip	Elektu la karton se vi ne volas ricevi ĝin.
 		
-statusChange_gained	Gained Status: {1}	Status Gained: Starving
-statusChange_ended	Status Ended: {1}	
-statusChange_nothing	nothing	
+statusChange_gained	Akirita stato: {1}	Status Gained: Starving
+statusChange_ended	Finiĝis la stato: {1}	
+statusChange_nothing	nenio
 		
 shop_shop_title	Vendejo de la provizejo	
 shop_shop_subtitle	Alklaku karton por elekti ĝin	
@@ -802,34 +802,34 @@ settings_pronounsBase	they|she|he	For autofilling custom pronouns, not sure if/h
 settings_pronounsThey	they	
 settings_pronounsShe	she	
 		
-setting_disableTutorialMessages	Disable Tutorial Messages	
-setting_harderCardChallenges	Harder Card Challenges	
-setting_skipCardChallenges	Skip Card Challenges	
-setting_skipSeenText	Skip Seen Text	
-setting_sortDrawnCards	Sort Drawn Cards	
-setting_runInBackground	Run In Background	
-setting_hardwareMouseCursor	Hardware Mouse Cursor	
-setting_resolution	Resolution	
-setting_fullscreenMode	Fullscreen Mode	
-setting_quality	Quality	
-setting_textureQuality	Texture Quality	
-setting_antiAliasing	Anti Aliasing	
-setting_vSyncCount	VSync Count	
-setting_menuTransparency	Menu Transparency	
-setting_biggerMenus	Bigger Menus	
-setting_disableScreenShake	Disable Screen Shake	
-setting_onlyShowEquippedPets	Only Show Equipped Pets	
-setting_terrainEffects	Terrain Effects	
-setting_waterEffects	Water Effects	
-setting_weatherEffects	Weather Effects	
-setting_showGamepadGlyphs	Show Gamepad Glyphs	
-setting_volumeMaster	Master	
-setting_volumeMusic	Music	
-setting_volumeAmbient	Ambient	
-setting_volumeUI	UI	
-setting_volumeEffects	Effects	
-setting_volumeFootsteps	Footsteps	
-setting_volumeVibrationIntensity	Vibration Intensity	
+setting_disableTutorialMessages	Malŝalti Mesaĝojn De La Lernilo	
+setting_harderCardChallenges	Pli Malfacilaj Kartdefioj	
+setting_skipCardChallenges	Preterlasi Kartdefiojn	
+setting_skipSeenText	Preterlasi Jam Viditan Tekston	
+setting_sortDrawnCards	Ordigi Eltiritajn kKartojn	
+setting_runInBackground		Ruliĝi Fone	
+setting_hardwareMouseCursor	Aparata Musmontrilo	
+setting_resolution	Distingivo	
+setting_fullscreenMode	Plenekrana Reĝimo
+setting_quality	Kvalito Vertikala Sinkronigo
+setting_textureQuality	Kvalito De Teksturoj
+setting_antiAliasing	Glatigo De Randoj	
+setting_vSyncCount	Vertikala Sinkronigo
+setting_menuTransparency	Travidebleco De Menuoj	
+setting_biggerMenus	Pli grandaj menuoj	
+setting_disableScreenShake	Malŝalti Ekranan Skuadon	
+setting_onlyShowEquippedPets	Montri Nur Ekipitajn Dorlotbestojn	
+setting_terrainEffects	Efikoj De Tereno	
+setting_waterEffects	Efikoj De Akvo	
+setting_weatherEffects	Efikoj De Vetero	
+setting_showGamepadGlyphs	Montri Simbolojn De Ludregilo
+setting_volumeMaster	Ĉefa Laŭteco	
+setting_volumeMusic	Muziko	
+setting_volumeAmbient	Ĉirkaŭaj Sonoj	
+setting_volumeUI	Interfaco	
+setting_volumeEffects	Sonefikoj	
+setting_volumeFootsteps	Paŝoj	
+setting_volumeVibrationIntensity	Intenseco De Vibrado
 setting_constantMusic	Constant Music	
 setting_splodeMode	Splode Mode	
 setting_allChoices	All Choices	
@@ -850,35 +850,35 @@ setting_hideConsoleLog	Hide Console Log
 setting_showQualityOnConsoles	Show Quality On Consoles	
 setting_forceSteamDeck	Force Steam Deck	
 setting_tradeShowMode	Trade Show Mode	
-setting_textureQuality_half	Half Res	
-setting_textureQuality_quarter	Quarter Res	
-setting_textureQuality_eighth	Eighth Res	
-setting_textureQuality_full	Full Res	
-setting_antiAliasing_disabled	Disabled	
-setting_antiAliasing_sampling	{1}x Multi Sampling	2x Multi Sampling
-setting_vSyncCount_every	Every V Blank	
-setting_vSyncCount_second	Every Second V Blank	
-setting_vSyncCount_none	Don't Sync	
+setting_textureQuality_half	Duona Distingivo	
+setting_textureQuality_quarter	Kvarona Distingivo
+setting_textureQuality_eighth	Okona Distingivo	
+setting_textureQuality_full	Plena Distingivo	
+setting_antiAliasing_disabled	Malŝaltita	
+setting_antiAliasing_sampling	{1}x Multspecimenado
+setting_vSyncCount_every	Ĉiu V Refreŝigo	
+setting_vSyncCount_second	Ĉiu Dua V Refreŝigo	
+setting_vSyncCount_none	Sen Sinkronigo
 settings_resetConfirm	Ĉu vi certas, ke vi volas restarigi ĉiujn klavligojn al la defaŭltaj?	
 settings_resetDone	Klavligoj Restarigitaj.	
 settings_resetBindings	Ĉu vi certas, ke vi volas restarigi ĈIUJN agordojn kaj klavligojn?	
 settings_resetSettings	Agordoj Restarigitaj.
-settings_quality_very_low	very low	
-settings_quality_low	low	
-settings_quality_medium	medium	
-settings_quality_high	high	
-settings_quality_very_high	very high	
+settings_quality_very_low	tre malalta	
+settings_quality_low	malalta	
+settings_quality_medium	meza	
+settings_quality_high	alta	
+settings_quality_very_high	tre alta	
 settings_quality_ultra	ultra	
-settings_fullscreen_exclusivefullscreen	exclusive_full_screen	
-settings_fullscreen_fullscreenwindow	full screen window	
-settings_fullscreen_windowed	windowed	
-settings_fullscreen_maximizedwindow	maximized window	
+settings_fullscreen_exclusivefullscreen	ekskluziva plenekrano	
+settings_fullscreen_fullscreenwindow	plenekrana fenestro	
+settings_fullscreen_windowed	en fenestro	
+settings_fullscreen_maximizedwindow	maksimumigita fenestro	
 		
 settings_resetAllSettings	Restarigi Ĉiujn Agordojn	
-settings_mods	Mods	
-settings_modsNone	No mods found - visit Steam Workshop to install mods and language packs	
-settings_modsRestartRequired	Restart the game for mod changes to take effect.	
-settings_modNotReady	[not ready / downloading...]	
+settings_mods	Modifoj	
+settings_modsNone	Neniuj modifoj trovitaj. Vizitu Steam Workshop por instali modifojn kaj lingvopakojn.	
+settings_modsRestartRequired	Restartigu la ludon por apliki ŝanĝojn al modifoj	
+settings_modNotReady	[ne preta / elŝutata...]	
 		
 button_next_month	Next Month	
 button_submit	Submit	
